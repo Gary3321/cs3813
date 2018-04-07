@@ -49,4 +49,11 @@ floatsubbenchmark : 480
 doublesubbenchmark : 1080
 andbenchmark : 496
 xorbenchmark : 603
-
+-------------------------------------------------------
+Test completed... printing results
+floataddbenchmark : 165
+doubleaddbenchmark : 1059
+floatsubbenchmark : 794
+doublesubbenchmark : 827
+andbenchmark : 1920
+xorbenchmark : 629
