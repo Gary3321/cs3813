@@ -57,3 +57,7 @@ floatsubbenchmark : 794
 doublesubbenchmark : 827
 andbenchmark : 1920
 xorbenchmark : 629
+----------------------
+home: L1 2*64, L2 2*256KB ,L3 3Mb
+
+wmic cpu get L2CacheSize, L3CacheSize
